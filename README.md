@@ -4,8 +4,10 @@
 Churn is when the customer decides to cancel and takes the necessary steps to exit the service. It could be caused by dissatisfaction, or not receiving the value they   expected. Involuntary churn happens due to situations such as expired payment details, server errors, insufficient funds, and other unpredictable predicaments.
  
 **Customer satisfaction, happiness, and loyalty can be achieved to a certain degree, but churn will always be a part of the business. Churn can happen because of:**<br/>
-Markup : * Bullet list
+ Markup : * Bullet list
               * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 >> Bad customer service (poor service quality, response rate, or overall customer experience),
 >> Finance issues (fees and rates),
 >> Customer needs change,
