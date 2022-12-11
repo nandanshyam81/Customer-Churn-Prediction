@@ -34,3 +34,11 @@ The various features in the data set were:
 -->MonthlyCharges - The amount charged to the customer monthly<br/>
 -->TotalCharges - The total amount charged to the customer<br/>
 -->Churn - Tells whether the customer has churned or not (Yes or No)<br/>
+
+Technique used to implement this project: ANN
+
+**More about Artificial Neural Networks**
+An artificial neural network has three or more layers that are interconnected. The first layer consists of input neurons. Those neurons send data on to the deeper layers, which in turn will send the final output data to the last output layer. <br/>
+
+All the inner layers are hidden and are formed by units which adaptively change the information received from layer to layer through a series of transformations. Each layer acts both as an input and output layer that allows the ANN to understand more complex objects. Collectively, these inner layers are called the neural layer.
+
