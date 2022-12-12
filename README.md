@@ -31,8 +31,8 @@ The various features in the data set were:
 -->StreamingMovies - Tells whether the customer has streaming movies or not (Yes, No, No internet service)<br/>
 -->PaperlessBilling - Tells whether the customer has paperless billing or not (Yes, No)<br/>
 -->PaymentMethod - The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))<br/>
--->MonthlyCharges - The amount charged to the customer monthly<br/>
--->TotalCharges - The total amount charged to the customer<br/>
+-->MonthlyCharges - This is the amount which is being charged monthly<br/>
+-->TotalCharges - This is the total amount that the customer has to pay<br/>
 -->Churn - Tells whether the customer has churned or not (Yes or No)<br/>
 
 Technique used to implement this project: ANN
