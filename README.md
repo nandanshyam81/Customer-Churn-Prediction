@@ -20,7 +20,7 @@ The various features in the data set were:
 -->Partner - Tells whether the customer has a partner or not (Yes, No) <br/>
 -->Dependents - Tells whether the customer has dependents or not (Yes, No)<br/>
 -->tenure - Tells how many number of months the customer has stayed with the company<br/>
--->PhoneService - Tells whether the customer has a phone service or not (Yes, No<br/>)
+-->PhoneService - Tells whether the customer has a phone service or not (Yes, No)<br/>
 -->MultipleLines - Tells whether the customer has multiple lines or not (Yes, No, No phone service)<br/>
 -->InternetService - Tells customer’s internet service provider (DSL, Fiber optic, No)<br/>
 -->OnlineSecurity - Tells whether the customer has online security or not (Yes, No, No internet service)<br/>
