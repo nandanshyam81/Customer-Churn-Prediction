@@ -30,6 +30,9 @@ The various features in the data set were:
 -->StreamingTV - Tells whether the customer has streaming TV or not (Yes, No, No internet service)<br/>
 -->StreamingMovies - Tells whether the customer has streaming movies or not (Yes, No, No internet service)<br/>
 -->PaperlessBilling - Tells whether the customer has paperless billing or not (Yes, No)<br/>
+
+![image](https://user-images.githubusercontent.com/109072424/207687569-6cc384c6-7881-47fa-a92d-5e6f9a67c358.png)
+
 -->PaymentMethod - The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))<br/>
 -->MonthlyCharges - This is the amount which is being charged monthly<br/>
 -->TotalCharges - This is the total amount that the customer has to pay<br/>
