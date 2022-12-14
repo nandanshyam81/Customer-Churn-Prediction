@@ -30,9 +30,6 @@ The various features in the data set were:
 -->StreamingTV - Tells whether the customer has streaming TV or not (Yes, No, No internet service)<br/>
 -->StreamingMovies - Tells whether the customer has streaming movies or not (Yes, No, No internet service)<br/>
 -->PaperlessBilling - Tells whether the customer has paperless billing or not (Yes, No)<br/>
-
-![image](https://user-images.githubusercontent.com/109072424/207687569-6cc384c6-7881-47fa-a92d-5e6f9a67c358.png)
-
 -->PaymentMethod - The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))<br/>
 -->MonthlyCharges - This is the amount which is being charged monthly<br/>
 -->TotalCharges - This is the total amount that the customer has to pay<br/>
@@ -44,4 +41,6 @@ Technique used to implement this project: ANN
 An artificial neural network has three or more layers that are interconnected. The first layer consists of input neurons. Those neurons send data on to the deeper layers, which in turn will send the final output data to the last output layer. <br/>
 
 All the inner layers are hidden and are formed by units which adaptively change the information received from layer to layer through a series of transformations. Each layer acts both as an input and output layer that allows the ANN to understand more complex objects. Collectively, these inner layers are called the neural layer.
+
+![image](https://user-images.githubusercontent.com/109072424/207687569-6cc384c6-7881-47fa-a92d-5e6f9a67c358.png)
 
