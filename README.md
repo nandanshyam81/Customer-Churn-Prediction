@@ -35,6 +35,8 @@ The various features in the data set were:
 -->TotalCharges - This is the total amount that the customer has to pay<br/>
 -->Churn - Tells whether the customer has churned or not (Yes or No)<br/>
 
+> Most of the data in the features was text data.As Machine Learning model requires only numerical input , used replacement with 0 and 1 for features with only two classes and for the features which consisted of more than two classes, I applied One-Hot Encoding technique because if we use replacement with 2,1 and 0, it would add more bias to the model as value 2 would be given more importance and ideally all labels might be equally important, hence we use the concept of one hot encoding.
+
 Technique used to implement this project: ANN
 
 **More about Artificial Neural Networks**
